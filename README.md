@@ -1,4 +1,4 @@
-### Hey 👋
+### Hey there 👋
 
 ### My name is Juan Mateo, nice to meet you. I'm a Software Engineer that graduated from Fullstack Academy!
 
