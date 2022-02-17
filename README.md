@@ -2,8 +2,6 @@
 
 ### My name is Juan Mateo, nice to meet you. I'm a Software Engineer that graduated from Fullstack Academy!
 
-### 🌱 I’m currently learning Python
-### 😄 Pronouns: He/Him
 ### 🐈 Random fact about me: I love animals, especially cats!
 <!--
 **jmateoFSA/jmateoFSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
