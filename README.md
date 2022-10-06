@@ -1,6 +1,6 @@
 ### Juan Mateo | Software Engineer | Fullstack Academy Graduate
 
-- 📬 Connect with me on <a href="https://www.linkedin.com/in/juan-mateo-fsa/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/juan-mateo-fsa/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
